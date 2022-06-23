@@ -4,8 +4,7 @@
 // 3. Populate the form fields with those address components.
 // This sample requires the Places library, Maps JavaScript API.
 // Include the libraries=places parameter when you first load the API.
-// For example: <script
-// src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places">
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyArpftTf8E2QsgWchLEHN-k83CObsDuuwA&libraries=places">
 
 let autocomplete: google.maps.places.Autocomplete;
 let address1Field: HTMLInputElement;
